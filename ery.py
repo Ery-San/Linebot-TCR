@@ -145,7 +145,7 @@ cancelinvite = {
 setTime = {}
 setTime = wait2['setTime']
 
-imgur stuff too
+#imgur stuff too
 def upload_tempimage(client):     '''
 #         Upload a picture of a kitten. We don't ship one, so get creative!
 #     '''
